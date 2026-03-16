@@ -1,6 +1,7 @@
 import Header from './components/HeaderComp'
 import AboutMeComp from './components/AboutMeComp'
 import Projects from './components/Projects'
+import ContactMe from './components/ContactMeComp'
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <AboutMeComp />
       <Projects />
+      <ContactMe />
     </>
   )
 }

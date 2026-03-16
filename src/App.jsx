@@ -1,5 +1,6 @@
 import Header from './components/HeaderComp'
 import AboutMeComp from './components/AboutMeComp'
+import Projects from './components/Projects'
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Header />
       <AboutMeComp />
+      <Projects />
     </>
   )
 }
